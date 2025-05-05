@@ -27,4 +27,9 @@
            path="vendor/oneplus/oscaro"
            remote="github"
            revision="lineage-22.2" />
+
+    <project name="LineageOS/android_hardware_oplus"
+           path="hardware/oplus"
+           remote="github"
+           revision="lineage-22.2" />
 </manifest>

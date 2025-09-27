@@ -4,32 +4,32 @@
   <project name="Teamhackneyed/android_kernel_oneplus_sm6375"
            path="kernel/oneplus/sm6375"
            remote="github"
-           revision="lineage-22.2" />
+           revision="lineage-23" />
 
   <!-- Device trees -->
   <project name="LineageOS/android_device_oneplus_sm6375-common"
            path="device/oneplus/sm6375-common"
            remote="github"
-           revision="lineage-22.2" />
+           revision="lineage-23" />
 
   <project name="Teamhackneyed/android_device_oneplus_oscaro"
            path="device/oneplus/oscaro"
            remote="github"
-           revision="lineage-22.2" />
+           revision="lineage-23" />
 
   <!-- Vendor blobs -->
   <project name="Teamhackneyed/proprietary_vendor_oneplus_sm6375-common"
            path="vendor/oneplus/sm6375-common"
            remote="github"
-           revision="lineage-22.2" />
+           revision="lineage-23" />
 
   <project name="Teamhackneyed/proprietary_vendor_oneplus_oscaro"
            path="vendor/oneplus/oscaro"
            remote="github"
-           revision="lineage-22.2" />
+           revision="lineage-23" />
 
     <project name="LineageOS/android_hardware_oplus"
            path="hardware/oplus"
            remote="github"
-           revision="lineage-22.2" />
+           revision="lineage-23" />
 </manifest>
